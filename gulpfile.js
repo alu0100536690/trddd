@@ -85,6 +85,9 @@ gulp.task('deploy', function () {
       .pipe(shell(['./generar-permisos']))
       .pipe(shell(['./scripts/losh generate-gitbook']))
       .pipe(shell(['./scripts/losh deploy-gitbook']))
+ return gulpSSH
+      .shell(['mv gh-pages ghpages'], {filePath: 'shell.log'})
+      .pipe(gulp.dest('logs'))
 
 });
 
@@ -95,20 +98,19 @@ gulp.task('default', ['deploy']);
 gulp.task('pdf',shell.task("gitbook pdf ./txt",{ verbose: true }));
 
 
-gulp.task('crear-repo', function() {
-
-  var hero = require("gitbook-start-digitalocean-merquililycony");
-});
-
-
 gulp.task('deploy-digitalocean',function(){
 
-  //  ssh_exec('scp -C -i '+privateKey+' -r /gh-pages/ '+username+'@'+host+':/home/src/sytw/gh-pages/');
-    client.scp('gh-pages/', username+':'+password+'@'+host+':/home/src/sytw/gh-pages/', function(err) {});
+
+    //client.scp('ghpages/', username+':'+password+'@'+host+':/home/src/sytw/ghpages/', function(err) {});
     client.scp('./template/app.js', username+':'+password+'@'+host+':/home/src/sytw/', function(err) {});
-    client.scp('./template/package.json', username+':'+password+'@'+host+':/home/src/sytw/', function(err) {});
+    client.scp('./template/package_digitalocean.json', username+':'+password+'@'+host+':/home/src/sytw/package.json', function(err) {});
+    client.scp('./template/gulpfile_digitalocean.js', username+':'+password+'@'+host+':/home/src/sytw/gulpfile.js', function(err) {});
+    return gulpSSH
+      .shell(['cd /home/src/sytw/', 'npm install', 'gulp clone'], {filePath: 'shell.log'})
+      .pipe(gulp.dest('logs'))
 
 });
+
 
 gulp.task('run-server', function () {
   return gulpSSH

@@ -1,0 +1,296 @@
+Welcome to Ubuntu 16.04.1 LTS (GNU/Linux 4.4.0-53-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  Get cloud support with Ubuntu Advantage Cloud Guest:
+    http://www.ubuntu.com/business/services/cloud
+
+6 packages can be updated.
+0 updates are security updates.
+
+
+Last login: Mon Dec 19 03:17:10 2016 from 83.38.44.35
+root@Ubuntu:~# cd /home/src/sytw/
+root@Ubuntu:/home/src/sytw# npm install
+[?25l[[90m..................[0m] / normalizeTree: [7msill[0m [35minstall[0m loadCurrentTree[K[[7m   [27m[90m...............[0m] - cloneCurrentTree: [7msill[0m [35mcloneCurrentTree[0m Finishing[K[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/negotiator/0.6.1[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/setprototypeof/1[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/strip-ansi/3.0.1[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/normalize-packag[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/validate-npm-pac[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/pinkie-promise/2[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/is-arrayish/0.2.[K[[7m    [27m[90m..............[0m] / fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/strip-indent/1.0[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/number-is-nan/1.[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/duplexer2/0.0.2/[K[[7m    [27m[90m..............[0m] - fetchMetadata: [34;40mverb[0m [35mcache add[0m spec readable-stream@^2.1.[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/repeat-string/1.[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/parse-passwd/1.0[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/map-cache/0.2.2/[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/unc-path-regex/0[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/once/1.3.3/packa[K[[7m    [27m[90m..............[0m] | fetchMetadata: [34;40mverb[0m [35mcache add[0m spec through2@^0.6.1[K[[7m    [27m[90m..............[0m] | fetchMetadata: [34;40mverb[0m [35mcache add[0m spec through2@^0.6.1[K[[7m    [27m[90m..............[0m] | fetchMetadata: [34;40mverb[0m [35mcache add[0m spec through2@^0.6.1[K[[7m    [27m[90m..............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[K[?25h[37;40mnpm[0m [0m[30;43mWARN[0m [0m[35mdeprecated[0m minimatch@2.0.10: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+[0m[?25l[[7m    [27m[90m..............[0m] / fetchMetadata: [30;43mWARN[0m [35mdeprecated[0m minimatch@2.0.10: Please[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/glob2base/0.0.12[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/inflight/1.0.6/p[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/concat-map/0.0.1[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/find-index/0.1.1[K[[7m    [27m[90m..............[0m] - fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/gaze/0.5.2/packa[K[[7m    [27m[90m..............[0m] | fetchMetadata: [34;40mverb[0m [35mcache add[0m spec glob@~3.1.21[K[K[?25h[37;40mnpm[0m [0m[30;43mWARN[0m [0m[35mdeprecated[0m minimatch@0.2.14: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+[0m[?25l[[7m    [27m[90m..............[0m] / fetchMetadata: [30;43mWARN[0m [35mdeprecated[0m minimatch@0.2.14: Please[K[[7m    [27m[90m..............[0m] / fetchMetadata: [30;43mWARN[0m [35mdeprecated[0m minimatch@0.2.14: Please[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [34;40mverb[0m [35mcache add[0m spec graceful-fs@~1.2.0[K[K[?25h[37;40mnpm[0m [0m[30;43mWARN[0m [0m[35mdeprecated[0m graceful-fs@1.2.3: graceful-fs v3.0.0 and before will fail on node releases >= v7.0. Please update to graceful-fs@^4.0.0 as soon as possible. Use 'npm ls graceful-fs' to find it in the tree.
+[0m[?25l[[7m    [27m[90m..............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] \ fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/minimist/0.0.8/p[K[[7m    [27m[90m..............[0m] / fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/first-chunk-stre[K[[7m    [27m[90m..............[0m] | fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/readable-stream/[K[[7m    [27m[90m..............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m    [27m[90m..............[0m] | fetchMetadata: [34;40mverb[0m [35mafterAdd[0m /root/.npm/any-shell-escape[K[[7m     [27m[90m.............[0m] - fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m     [27m[90m.............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m     [27m[90m.............[0m] | fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m     [27m[90m.............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m     [27m[90m.............[0m] / fetchMetadata: [7msill[0m [35mmapToRegistry[0m uri https://registry.n[K[[7m          [27m[90m........[0m] \ diffTrees: [7msill[0m [35minstall[0m generateActionsToTake[K[[7m           [27m[90m.......[0m] \ preinstall:Despliegue_Digital_Ocean: [7msill[0m [35minstall[0m runPre[K[[7m              [27m[90m....[0m] / fetch: [7msill[0m [35mdoParallel[0m fetch 265[K[[7m              [27m[90m....[0m] | extract:https: [7msill[0m [35mdoParallel[0m extract 265[K[[7m              [27m[90m....[0m] | extract:https: [7msill[0m [35mdoParallel[0m extract 265[K[[7m              [27m[90m....[0m] | extract:https: [7msill[0m [35mdoParallel[0m extract 265[K[[7m              [27m[90m....[0m] / extract:https: [7msill[0m [35mdoParallel[0m extract 265[K[[7m              [27m[90m....[0m] \ extract:https: [7msill[0m [35mdoParallel[0m extract 265[K[[7m              [27m[90m....[0m] | extract:https: [7msill[0m [35mdoParallel[0m extract 265[K[[7m              [27m[90m....[0m] | extract:https: [7msill[0m [35mdoParallel[0m extract 265[K[[7m              [27m[90m....[0m] | extract:https: [7msill[0m [35mdoParallel[0m extract 265[K[[7m              [27m[90m....[0m] - extract:https: [7msill[0m [35mdoParallel[0m extract 265[K[[7m              [27m[90m....[0m] \ extract:https: [7msill[0m [35mdoParallel[0m extract 265[K[[7m              [27m[90m....[0m] / extract:https: [7msill[0m [35mdoParallel[0m extract 265[K[[7m              [27m[90m....[0m] \ extract:https: [7msill[0m [35mdoParallel[0m extract 265[K[[7m              [27m[90m....[0m] \ extract:https: [7msill[0m [35mdoParallel[0m extract 265[K[[7m              [27m[90m....[0m] \ extract:https: [7msill[0m [35mdoParallel[0m extract 265[K[[7m              [27m[90m....[0m] \ extract:https: [7msill[0m [35mdoParallel[0m extract 265[K[[7m              [27m[90m....[0m] | extract:https: [7msill[0m [35mdoParallel[0m extract 265[K[[7m              [27m[90m....[0m] \ extract:https: [7msill[0m [35mdoParallel[0m extract 265[K[[7m              [27m[90m....[0m] - extract:https: [7msill[0m [35mdoParallel[0m extract 265[K[[7m              [27m[90m....[0m] \ extract:https: [7msill[0m [35mgunzTarPerm[0m extractEntry lib/dest/wr[K[[7m              [27m[90m....[0m] - extract:https: [7msill[0m [35mgunzTarPerm[0m extractEntry lib/dest/wr[K[[7m              [27m[90m....[0m] - extract:https: [7msill[0m [35mgunzTarPerm[0m extractEntry lib/dest/wr[K[[7m              [27m[90m....[0m] | extract:https: [7msill[0m [35mgunzTarPerm[0m extractEntry lib/dest/wr[K[[7m              [27m[90m....[0m] | extract:https: [7msill[0m [35mgunzTarPerm[0m extractEntry lib/dest/wr[K[[7m              [27m[90m....[0m] | extract:https: [7msill[0m [35mgunzTarPerm[0m extractEntry lib/dest/wr[K[[7m              [27m[90m....[0m] / extract:https: [7msill[0m [35mgunzTarPerm[0m extractEntry lib/dest/wr[K[[7m              [27m[90m....[0m] / extract:https: [7msill[0m [35mgunzTarPerm[0m extractEntry lib/dest/wr[K[[7m              [27m[90m....[0m] / extract:expand-tilde: [7msill[0m [35mgunzTarPerm[0m extractEntry lib/[K[[7m              [27m[90m....[0m] / extract:expand-tilde: [7msill[0m [35mgunzTarPerm[0m extractEntry lib/[K[[7m              [27m[90m....[0m] | extract:findup-sync: [7msill[0m [35mgunzTarPerm[0m extractEntry test/[K[[7m              [27m[90m....[0m] | extract:findup-sync: [7msill[0m [35mgunzTarPerm[0m extractEntry test/[K[[7m              [27m[90m....[0m] - extract:findup-sync: [7msill[0m [35mgunzTarPerm[0m extractEntry test/[K[[7m              [27m[90m....[0m] - extract:findup-sync: [7msill[0m [35mgunzTarPerm[0m extractEntry test/[K[[7m              [27m[90m....[0m] | extract:once: [34;40mverb[0m [35mgentlyRm[0m don't care about contents; n[K[[7m               [27m[90m...[0m] - extract:inflight: [34;40mverb[0m [35mgentlyRm[0m don't care about content[K[[7m               [27m[90m...[0m] - extract:glob-stream: [7msill[0m [35mgunzTarPerm[0m extractEntry test/[K[[7m               [27m[90m...[0m] | extract:glob-stream: [7msill[0m [35mgunzTarPerm[0m extractEntry test/[K[[7m               [27m[90m...[0m] - extract:utils-merge: [34;40mverb[0m [35mgentlyRm[0m don't care about cont[K[[7m               [27m[90m...[0m] - extract:vary: [34;40mverb[0m [35mgentlyRm[0m don't care about contents; n[K[[7m               [27m[90m...[0m] - extract:minimatch: [7msill[0m [35mgunzTarPerm[0m extractEntry test/re[K[[7m               [27m[90m...[0m] \ extract:through2: [7msill[0m [35mgunzTarPerm[0m extractEntry test/fix[K[[7m               [27m[90m...[0m] / extract:clone: [34;40mverb[0m [35mgentlyRm[0m don't care about contents;[K[[7m                [27m[90m..[0m] / extract:mime-db: [34;40mverb[0m [35mgentlyRm[0m don't care about contents[K[[7m                [27m[90m..[0m] / extract:micromatch: [34;40mverb[0m [35mgentlyRm[0m don't care about conte[K[[7m                [27m[90m..[0m] - extract:rechoir: [7msill[0m [35mgunzTarPerm[0m extractEntry test/simp[K[[7m                [27m[90m..[0m] / extract:flagged-respawn: [34;40mverb[0m [35mgentlyRm[0m don't care about[K[[7m                [27m[90m..[0m] / extract:gulp-util: [7msill[0m [35mgunzTarPerm[0m extractEntry ary.js[K[[7m                [27m[90m..[0m] / extract:lodash: [34;40mverb[0m [35mgentlyRm[0m don't care about contents;[K[[7m                [27m[90m..[0m] \ extract:minimist: [34;40mverb[0m [35mgentlyRm[0m don't care about content[K[[7m                [27m[90m..[0m] - extract:require-dir: [34;40mverb[0m [35mgentlyRm[0m don't care about cont[K[[7m                [27m[90m..[0m] / extract:normalize-package-data: [7msill[0m [35mgunzTarPerm[0m extract[K[[7m                [27m[90m..[0m] \ extract:resolve: [34;40mverb[0m [35mgentlyRm[0m don't care about contents[K[[7m                [27m[90m..[0m] / extract:resolve: [34;40mverb[0m [35mgentlyRm[0m don't care about contents[K[[7m                [27m[90m..[0m] - extract:resolve: [34;40mverb[0m [35mgentlyRm[0m don't care about contents[K[[7m                [27m[90m..[0m] - extract:resolve: [34;40mverb[0m [35mgentlyRm[0m don't care about contents[K[[7m                [27m[90m..[0m] \ extract:resolve: [34;40mverb[0m [35mgentlyRm[0m don't care about contents[K[[7m                [27m[90m..[0m] \ extract:resolve: [34;40mverb[0m [35mgentlyRm[0m don't care about contents[K[[7m                [27m[90m..[0m] \ extract:resolve: [34;40mverb[0m [35mgentlyRm[0m don't care about contents[K[[7m                [27m[90m..[0m] \ extract:resolve: [34;40mverb[0m [35mgentlyRm[0m don't care about contents[K[[7m                [27m[90m..[0m] \ extract:resolve: [34;40mverb[0m [35mgentlyRm[0m don't care about contents[K[[7m                [27m[90m..[0m] \ extract:resolve: [34;40mverb[0m [35mgentlyRm[0m don't care about contents[K[[7m                [27m[90m..[0m] \ extract:resolve: [34;40mverb[0m [35mgentlyRm[0m don't care about contents[K[[7m                [27m[90m..[0m] \ extract:resolve: [34;40mverb[0m [35mgentlyRm[0m don't care about contents[K[[7m                [27m[90m..[0m] \ extract:resolve: [34;40mverb[0m [35mgentlyRm[0m don't care about contents[K[[7m                [27m[90m..[0m] \ extract:resolve: [34;40mverb[0m [35mgentlyRm[0m don't care about contents[K[[7m                [27m[90m..[0m] \ extract:resolve: [34;40mverb[0m [35mgentlyRm[0m don't care about contents[K[[7m                [27m[90m..[0m] | preinstall:https: [7msill[0m [35mdoParallel[0m preinstall 265[K[[7m                [27m[90m..[0m] / preinstall:https: [7msill[0m [35mdoParallel[0m preinstall 265[K[[7m                [27m[90m..[0m] / finalize:https: [7msill[0m [35mdoSerial[0m finalize 265[K[[7m                [27m[90m..[0m] / finalize:lodash.restparam: [7msill[0m [35mfinalize[0m /home/src/sytw/[K[[7m                 [27m[90m.[0m] / finalize:has-gulplog: [7msill[0m [35mfinalize[0m /home/src/sytw/node_[K[[7m                 [27m[90m.[0m] / build:https: [7msill[0m [35mdoSerial[0m build 265[K[[7m                 [27m[90m.[0m] - build:cookie-signature: [34;40mverb[0m [35mlinkMans[0m cookie-signature@1[K[[7m                 [27m[90m.[0m] / build:hosted-git-info: [34;40mverb[0m [35mlinkMans[0m hosted-git-info@2.1[K[[7m                 [27m[90m.[0m] - build:expand-brackets: [34;40mverb[0m [35mlinkMans[0m expand-brackets@0.1[K[[7m                 [27m[90m.[0m] - build:is-windows: [34;40mverb[0m [35mlinkMans[0m is-windows@0.2.0[K[[7m                 [27m[90m.[0m] - build:methods: [34;40mverb[0m [35mlinkMans[0m methods@1.1.2[K[[7m                 [27m[90m.[0m] \ build:pify: [34;40mverb[0m [35mlinkMans[0m pify@2.3.0[K[[7m                 [27m[90m.[0m] \ build:sparkles: [34;40mverb[0m [35mlinkMans[0m sparkles@1.0.0[K[[7m                 [27m[90m.[0m] | build:unpipe: [34;40mverb[0m [35mlinkMans[0m unpipe@1.0.0[K[[7m                 [27m[90m.[0m] / build:liftoff: [34;40mverb[0m [35mlinkMans[0m liftoff@2.3.0[K[[7m                 [27m[90m.[0m] \ install:https: [7msill[0m [35mdoSerial[0m install 265[K[[7m                 [27m[90m.[0m] \ install:etag: [7msill[0m [35mlifecycle[0m etag@1.7.0~install: no scri[K[[7m                 [27m[90m.[0m] \ install:is-windows: [7msill[0m [35mlifecycle[0m is-windows@0.2.0~inst[K[[7m                 [27m[90m.[0m] - install:camelcase-keys: [7msill[0m [35mlifecycle[0m camelcase-keys@2.[K[[7m                 [27m[90m.[0m] / install:path-exists: [7msill[0m [35mlifecycle[0m path-exists@2.1.0~in[K[[7m                 [27m[90m.[0m] - install:spdx-license-ids: [7msill[0m [35mlifecycle[0m spdx-license-id[K[[7m                 [27m[90m.[0m] - install:validate-npm-package-license: [7msill[0m [35mlifecycle[0m val[K[[7m                 [27m[90m.[0m] - install:vinyl-fs: [7msill[0m [35mlifecycle[0m vinyl-fs@0.3.14~install[K[[7m                 [27m[90m.[0m] | postinstall:archy: [7msill[0m [35mlifecycle[0m archy@1.0.0~postinstal[K[[7m                 [27m[90m.[0m] | postinstall:for-own: [7msill[0m [35mlifecycle[0m for-own@0.1.4~postin[K[[7m                 [27m[90m.[0m] - postinstall:isarray: [7msill[0m [35mlifecycle[0m isarray@0.0.1~postin[K[[7m                 [27m[90m.[0m] | postinstall:mime-db: [7msill[0m [35mlifecycle[0m mime-db@1.25.0~posti[K[[7m                 [27m[90m.[0m] | postinstall:process-nextick-args: [7msill[0m [35mlifecycle[0m process[K[[7m                 [27m[90m.[0m] | postinstall:serve-static: [7msill[0m [35mlifecycle[0m serve-static@1.[K[[7m                 [27m[90m.[0m] | postinstall:readable-stream: [7msill[0m [35mlifecycle[0m readable-str[K[[7m                 [27m[90m.[0m] \ postinstall:gulp-git: [7msill[0m [35mlifecycle[0m gulp-git@1.12.0~pos[K[K[?25hDespliegue_Digital_Ocean@1.0.0 /home/src/sytw
+├─┬ [40m[33mexpress@4.14.0[39m[49m 
+│ ├─┬ [40m[33maccepts@1.3.3[39m[49m 
+│ │ ├─┬ [40m[33mmime-types@2.1.13[39m[49m 
+│ │ │ └── [40m[33mmime-db@1.25.0[39m[49m 
+│ │ └── [40m[33mnegotiator@0.6.1[39m[49m 
+│ ├── [40m[33marray-flatten@1.1.1[39m[49m 
+│ ├── [40m[33mcontent-disposition@0.5.1[39m[49m 
+│ ├── [40m[33mcontent-type@1.0.2[39m[49m 
+│ ├── [40m[33mcookie@0.3.1[39m[49m 
+│ ├── [40m[33mcookie-signature@1.0.6[39m[49m 
+│ ├─┬ [40m[33mdebug@2.2.0[39m[49m 
+│ │ └── [40m[33mms@0.7.1[39m[49m 
+│ ├── [40m[33mdepd@1.1.0[39m[49m 
+│ ├── [40m[33mencodeurl@1.0.1[39m[49m 
+│ ├── [40m[33mescape-html@1.0.3[39m[49m 
+│ ├── [40m[33metag@1.7.0[39m[49m 
+│ ├─┬ [40m[33mfinalhandler@0.5.0[39m[49m 
+│ │ ├── [40m[33mstatuses@1.3.1[39m[49m 
+│ │ └── [40m[33munpipe@1.0.0[39m[49m 
+│ ├── [40m[33mfresh@0.3.0[39m[49m 
+│ ├── [40m[33mmerge-descriptors@1.0.1[39m[49m 
+│ ├── [40m[33mmethods@1.1.2[39m[49m 
+│ ├─┬ [40m[33mon-finished@2.3.0[39m[49m 
+│ │ └── [40m[33mee-first@1.1.1[39m[49m 
+│ ├── [40m[33mparseurl@1.3.1[39m[49m 
+│ ├── [40m[33mpath-to-regexp@0.1.7[39m[49m 
+│ ├─┬ [40m[33mproxy-addr@1.1.2[39m[49m 
+│ │ ├── [40m[33mforwarded@0.1.0[39m[49m 
+│ │ └── [40m[33mipaddr.js@1.1.1[39m[49m 
+│ ├── [40m[33mqs@6.2.0[39m[49m 
+│ ├── [40m[33mrange-parser@1.2.0[39m[49m 
+│ ├─┬ [40m[33msend@0.14.1[39m[49m 
+│ │ ├── [40m[33mdestroy@1.0.4[39m[49m 
+│ │ ├─┬ [40m[33mhttp-errors@1.5.1[39m[49m 
+│ │ │ ├── [40m[33minherits@2.0.3[39m[49m 
+│ │ │ └── [40m[33msetprototypeof@1.0.2[39m[49m 
+│ │ └── [40m[33mmime@1.3.4[39m[49m 
+│ ├── [40m[33mserve-static@1.11.1[39m[49m 
+│ ├─┬ [40m[33mtype-is@1.6.14[39m[49m 
+│ │ └── [40m[33mmedia-typer@0.3.0[39m[49m 
+│ ├── [40m[33mutils-merge@1.0.0[39m[49m 
+│ └── [40m[33mvary@1.1.0[39m[49m 
+├─┬ [40m[33mgulp@3.9.1[39m[49m 
+│ ├── [40m[33marchy@1.0.0[39m[49m 
+│ ├─┬ [40m[33mchalk@1.1.3[39m[49m 
+│ │ ├── [40m[33mansi-styles@2.2.1[39m[49m 
+│ │ ├── [40m[33mescape-string-regexp@1.0.5[39m[49m 
+│ │ ├─┬ [40m[33mhas-ansi@2.0.0[39m[49m 
+│ │ │ └── [40m[33mansi-regex@2.0.0[39m[49m 
+│ │ ├── [40m[33mstrip-ansi@3.0.1[39m[49m 
+│ │ └── [40m[33msupports-color@2.0.0[39m[49m 
+│ ├── [40m[33mdeprecated@0.0.1[39m[49m 
+│ ├─┬ [40m[33mgulp-util@3.0.7[39m[49m 
+│ │ ├── [40m[33marray-differ@1.0.0[39m[49m 
+│ │ ├── [40m[33marray-uniq@1.0.3[39m[49m 
+│ │ ├── [40m[33mbeeper@1.1.1[39m[49m 
+│ │ ├─┬ [40m[33mdateformat@1.0.12[39m[49m 
+│ │ │ ├── [40m[33mget-stdin@4.0.1[39m[49m 
+│ │ │ └─┬ [40m[33mmeow@3.7.0[39m[49m 
+│ │ │   ├─┬ [40m[33mcamelcase-keys@2.1.0[39m[49m 
+│ │ │   │ └── [40m[33mcamelcase@2.1.1[39m[49m 
+│ │ │   ├── [40m[33mdecamelize@1.2.0[39m[49m 
+│ │ │   ├─┬ [40m[33mloud-rejection@1.6.0[39m[49m 
+│ │ │   │ ├─┬ [40m[33mcurrently-unhandled@0.4.1[39m[49m 
+│ │ │   │ │ └── [40m[33marray-find-index@1.0.2[39m[49m 
+│ │ │   │ └── [40m[33msignal-exit@3.0.2[39m[49m 
+│ │ │   ├── [40m[33mmap-obj@1.0.1[39m[49m 
+│ │ │   ├─┬ [40m[33mnormalize-package-data@2.3.5[39m[49m 
+│ │ │   │ ├── [40m[33mhosted-git-info@2.1.5[39m[49m 
+│ │ │   │ ├─┬ [40m[33mis-builtin-module@1.0.0[39m[49m 
+│ │ │   │ │ └── [40m[33mbuiltin-modules@1.1.1[39m[49m 
+│ │ │   │ └─┬ [40m[33mvalidate-npm-package-license@3.0.1[39m[49m 
+│ │ │   │   ├─┬ [40m[33mspdx-correct@1.0.2[39m[49m 
+│ │ │   │   │ └── [40m[33mspdx-license-ids@1.2.2[39m[49m 
+│ │ │   │   └── [40m[33mspdx-expression-parse@1.0.4[39m[49m 
+│ │ │   ├── [40m[33mobject-assign@4.1.0[39m[49m 
+│ │ │   ├─┬ [40m[33mread-pkg-up@1.0.1[39m[49m 
+│ │ │   │ ├─┬ [40m[33mfind-up@1.1.2[39m[49m 
+│ │ │   │ │ ├── [40m[33mpath-exists@2.1.0[39m[49m 
+│ │ │   │ │ └─┬ [40m[33mpinkie-promise@2.0.1[39m[49m 
+│ │ │   │ │   └── [40m[33mpinkie@2.0.4[39m[49m 
+│ │ │   │ └─┬ [40m[33mread-pkg@1.1.0[39m[49m 
+│ │ │   │   ├─┬ [40m[33mload-json-file@1.1.0[39m[49m 
+│ │ │   │   │ ├── [40m[33mgraceful-fs@4.1.11[39m[49m 
+│ │ │   │   │ ├─┬ [40m[33mparse-json@2.2.0[39m[49m 
+│ │ │   │   │ │ └─┬ [40m[33merror-ex@1.3.0[39m[49m 
+│ │ │   │   │ │   └── [40m[33mis-arrayish@0.2.1[39m[49m 
+│ │ │   │   │ ├── [40m[33mpify@2.3.0[39m[49m 
+│ │ │   │   │ └── [40m[33mstrip-bom@2.0.0[39m[49m 
+│ │ │   │   └── [40m[33mpath-type@1.1.0[39m[49m 
+│ │ │   ├─┬ [40m[33mredent@1.0.0[39m[49m 
+│ │ │   │ ├─┬ [40m[33mindent-string@2.1.0[39m[49m 
+│ │ │   │ │ └─┬ [40m[33mrepeating@2.0.1[39m[49m 
+│ │ │   │ │   └─┬ [40m[33mis-finite@1.0.2[39m[49m 
+│ │ │   │ │     └── [40m[33mnumber-is-nan@1.0.1[39m[49m 
+│ │ │   │ └── [40m[33mstrip-indent@1.0.1[39m[49m 
+│ │ │   └── [40m[33mtrim-newlines@1.0.0[39m[49m 
+│ │ ├─┬ [40m[33mfancy-log@1.2.0[39m[49m 
+│ │ │ └── [40m[33mtime-stamp@1.0.1[39m[49m 
+│ │ ├─┬ [40m[33mgulplog@1.0.0[39m[49m 
+│ │ │ └── [40m[33mglogg@1.0.0[39m[49m 
+│ │ ├─┬ [40m[33mhas-gulplog@0.1.0[39m[49m 
+│ │ │ └── [40m[33msparkles@1.0.0[39m[49m 
+│ │ ├── [40m[33mlodash._reescape@3.0.0[39m[49m 
+│ │ ├── [40m[33mlodash._reevaluate@3.0.0[39m[49m 
+│ │ ├── [40m[33mlodash._reinterpolate@3.0.0[39m[49m 
+│ │ ├─┬ [40m[33mlodash.template@3.6.2[39m[49m 
+│ │ │ ├── [40m[33mlodash._basecopy@3.0.1[39m[49m 
+│ │ │ ├── [40m[33mlodash._basetostring@3.0.1[39m[49m 
+│ │ │ ├── [40m[33mlodash._basevalues@3.0.0[39m[49m 
+│ │ │ ├── [40m[33mlodash._isiterateecall@3.0.9[39m[49m 
+│ │ │ ├─┬ [40m[33mlodash.escape@3.2.0[39m[49m 
+│ │ │ │ └── [40m[33mlodash._root@3.0.1[39m[49m 
+│ │ │ ├─┬ [40m[33mlodash.keys@3.1.2[39m[49m 
+│ │ │ │ ├── [40m[33mlodash._getnative@3.9.1[39m[49m 
+│ │ │ │ ├── [40m[33mlodash.isarguments@3.1.0[39m[49m 
+│ │ │ │ └── [40m[33mlodash.isarray@3.0.4[39m[49m 
+│ │ │ ├── [40m[33mlodash.restparam@3.6.1[39m[49m 
+│ │ │ └── [40m[33mlodash.templatesettings@3.1.1[39m[49m 
+│ │ ├─┬ [40m[33mmultipipe@0.1.2[39m[49m 
+│ │ │ └─┬ [40m[33mduplexer2@0.0.2[39m[49m 
+│ │ │   └── [40m[33mreadable-stream@1.1.14[39m[49m 
+│ │ ├── [40m[33mobject-assign@3.0.0[39m[49m 
+│ │ ├── [40m[33mreplace-ext@0.0.1[39m[49m 
+│ │ └─┬ [40m[33mvinyl@0.5.3[39m[49m 
+│ │   ├── [40m[33mclone@1.0.2[39m[49m 
+│ │   └── [40m[33mclone-stats@0.0.1[39m[49m 
+│ ├── [40m[33minterpret@1.0.1[39m[49m 
+│ ├─┬ [40m[33mliftoff@2.3.0[39m[49m 
+│ │ ├── [40m[33mextend@3.0.0[39m[49m 
+│ │ ├─┬ [40m[33mfindup-sync@0.4.3[39m[49m 
+│ │ │ ├─┬ [40m[33mdetect-file@0.1.0[39m[49m 
+│ │ │ │ └── [40m[33mfs-exists-sync@0.1.0[39m[49m 
+│ │ │ ├─┬ [40m[33mis-glob@2.0.1[39m[49m 
+│ │ │ │ └── [40m[33mis-extglob@1.0.0[39m[49m 
+│ │ │ ├─┬ [40m[33mmicromatch@2.3.11[39m[49m 
+│ │ │ │ ├─┬ [40m[33marr-diff@2.0.0[39m[49m 
+│ │ │ │ │ └── [40m[33marr-flatten@1.0.1[39m[49m 
+│ │ │ │ ├── [40m[33marray-unique@0.2.1[39m[49m 
+│ │ │ │ ├─┬ [40m[33mbraces@1.8.5[39m[49m 
+│ │ │ │ │ ├─┬ [40m[33mexpand-range@1.8.2[39m[49m 
+│ │ │ │ │ │ └─┬ [40m[33mfill-range@2.2.3[39m[49m 
+│ │ │ │ │ │   ├── [40m[33mis-number@2.1.0[39m[49m 
+│ │ │ │ │ │   ├─┬ [40m[33misobject@2.1.0[39m[49m 
+│ │ │ │ │ │   │ └── [40m[33misarray@1.0.0[39m[49m 
+│ │ │ │ │ │   ├── [40m[33mrandomatic@1.1.6[39m[49m 
+│ │ │ │ │ │   └── [40m[33mrepeat-string@1.6.1[39m[49m 
+│ │ │ │ │ ├── [40m[33mpreserve@0.2.0[39m[49m 
+│ │ │ │ │ └── [40m[33mrepeat-element@1.1.2[39m[49m 
+│ │ │ │ ├─┬ [40m[33mexpand-brackets@0.1.5[39m[49m 
+│ │ │ │ │ └── [40m[33mis-posix-bracket@0.1.1[39m[49m 
+│ │ │ │ ├── [40m[33mextglob@0.3.2[39m[49m 
+│ │ │ │ ├── [40m[33mfilename-regex@2.0.0[39m[49m 
+│ │ │ │ ├─┬ [40m[33mkind-of@3.1.0[39m[49m 
+│ │ │ │ │ └── [40m[33mis-buffer@1.1.4[39m[49m 
+│ │ │ │ ├── [40m[33mnormalize-path@2.0.1[39m[49m 
+│ │ │ │ ├─┬ [40m[33mobject.omit@2.0.1[39m[49m 
+│ │ │ │ │ ├─┬ [40m[33mfor-own@0.1.4[39m[49m 
+│ │ │ │ │ │ └── [40m[33mfor-in@0.1.6[39m[49m 
+│ │ │ │ │ └── [40m[33mis-extendable@0.1.1[39m[49m 
+│ │ │ │ ├─┬ [40m[33mparse-glob@3.0.4[39m[49m 
+│ │ │ │ │ ├─┬ [40m[33mglob-base@0.3.0[39m[49m 
+│ │ │ │ │ │ └── [40m[33mglob-parent@2.0.0[39m[49m 
+│ │ │ │ │ └── [40m[33mis-dotfile@1.0.2[39m[49m 
+│ │ │ │ └─┬ [40m[33mregex-cache@0.4.3[39m[49m 
+│ │ │ │   ├── [40m[33mis-equal-shallow@0.1.3[39m[49m 
+│ │ │ │   └── [40m[33mis-primitive@2.0.0[39m[49m 
+│ │ │ └─┬ [40m[33mresolve-dir@0.1.1[39m[49m 
+│ │ │   └─┬ [40m[33mglobal-modules@0.2.3[39m[49m 
+│ │ │     ├─┬ [40m[33mglobal-prefix@0.1.5[39m[49m 
+│ │ │     │ ├─┬ [40m[33mhomedir-polyfill@1.0.1[39m[49m 
+│ │ │     │ │ └── [40m[33mparse-passwd@1.0.0[39m[49m 
+│ │ │     │ └── [40m[33mini@1.3.4[39m[49m 
+│ │ │     └── [40m[33mis-windows@0.2.0[39m[49m 
+│ │ ├─┬ [40m[33mfined@1.0.2[39m[49m 
+│ │ │ ├── [40m[33mexpand-tilde@1.2.2[39m[49m 
+│ │ │ ├── [40m[33mlodash.assignwith@4.2.0[39m[49m 
+│ │ │ ├── [40m[33mlodash.isempty@4.4.0[39m[49m 
+│ │ │ ├── [40m[33mlodash.pick@4.4.0[39m[49m 
+│ │ │ └─┬ [40m[33mparse-filepath@1.0.1[39m[49m 
+│ │ │   ├─┬ [40m[33mis-absolute@0.2.6[39m[49m 
+│ │ │   │ └─┬ [40m[33mis-relative@0.2.1[39m[49m 
+│ │ │   │   └─┬ [40m[33mis-unc-path@0.1.2[39m[49m 
+│ │ │   │     └── [40m[33munc-path-regex@0.1.2[39m[49m 
+│ │ │   ├── [40m[33mmap-cache@0.2.2[39m[49m 
+│ │ │   └─┬ [40m[33mpath-root@0.1.1[39m[49m 
+│ │ │     └── [40m[33mpath-root-regex@0.1.2[39m[49m 
+│ │ ├── [40m[33mflagged-respawn@0.3.2[39m[49m 
+│ │ ├── [40m[33mlodash.isplainobject@4.0.6[39m[49m 
+│ │ ├── [40m[33mlodash.isstring@4.0.1[39m[49m 
+│ │ ├── [40m[33mlodash.mapvalues@4.6.0[39m[49m 
+│ │ ├── [40m[33mrechoir@0.6.2[39m[49m 
+│ │ └── [40m[33mresolve@1.2.0[39m[49m 
+│ ├── [40m[33mminimist@1.2.0[39m[49m 
+│ ├─┬ [40m[33morchestrator@0.3.8[39m[49m 
+│ │ ├─┬ [40m[33mend-of-stream@0.1.5[39m[49m 
+│ │ │ └─┬ [40m[33monce@1.3.3[39m[49m 
+│ │ │   └── [40m[33mwrappy@1.0.2[39m[49m 
+│ │ ├── [40m[33msequencify@0.0.7[39m[49m 
+│ │ └── [40m[33mstream-consume@0.1.0[39m[49m 
+│ ├── [40m[33mpretty-hrtime@1.0.3[39m[49m 
+│ ├── [40m[33msemver@4.3.6[39m[49m 
+│ ├─┬ [40m[33mtildify@1.2.0[39m[49m 
+│ │ └── [40m[33mos-homedir@1.0.2[39m[49m 
+│ ├─┬ [40m[33mv8flags@2.0.11[39m[49m 
+│ │ └── [40m[33muser-home@1.1.1[39m[49m 
+│ └─┬ [40m[33mvinyl-fs@0.3.14[39m[49m 
+│   ├── [40m[33mdefaults@1.0.3[39m[49m 
+│   ├─┬ [40m[33mglob-stream@3.1.18[39m[49m 
+│   │ ├─┬ [40m[33mglob@4.5.3[39m[49m 
+│   │ │ └── [40m[33minflight@1.0.6[39m[49m 
+│   │ ├─┬ [40m[33mglob2base@0.0.12[39m[49m 
+│   │ │ └── [40m[33mfind-index@0.1.1[39m[49m 
+│   │ ├─┬ [40m[33mminimatch@2.0.10[39m[49m 
+│   │ │ └─┬ [40m[33mbrace-expansion@1.1.6[39m[49m 
+│   │ │   ├── [40m[33mbalanced-match@0.4.2[39m[49m 
+│   │ │   └── [40m[33mconcat-map@0.0.1[39m[49m 
+│   │ ├── [40m[33mordered-read-streams@0.1.0[39m[49m 
+│   │ ├─┬ [40m[33mthrough2@0.6.5[39m[49m 
+│   │ │ └── [40m[33mreadable-stream@1.0.34[39m[49m 
+│   │ └── [40m[33munique-stream@1.0.0[39m[49m 
+│   ├─┬ [40m[33mglob-watcher@0.0.6[39m[49m 
+│   │ └─┬ [40m[33mgaze@0.5.2[39m[49m 
+│   │   └─┬ [40m[33mglobule@0.1.0[39m[49m 
+│   │     ├─┬ [40m[33mglob@3.1.21[39m[49m 
+│   │     │ ├── [40m[33mgraceful-fs@1.2.3[39m[49m 
+│   │     │ └── [40m[33minherits@1.0.2[39m[49m 
+│   │     ├── [40m[33mlodash@1.0.2[39m[49m 
+│   │     └─┬ [40m[33mminimatch@0.2.14[39m[49m 
+│   │       ├── [40m[33mlru-cache@2.7.3[39m[49m 
+│   │       └── [40m[33msigmund@1.0.1[39m[49m 
+│   ├─┬ [40m[33mgraceful-fs@3.0.11[39m[49m 
+│   │ └── [40m[33mnatives@1.1.0[39m[49m 
+│   ├─┬ [40m[33mmkdirp@0.5.1[39m[49m 
+│   │ └── [40m[33mminimist@0.0.8[39m[49m 
+│   ├─┬ [40m[33mstrip-bom@1.0.0[39m[49m 
+│   │ ├── [40m[33mfirst-chunk-stream@1.0.0[39m[49m 
+│   │ └── [40m[33mis-utf8@0.2.1[39m[49m 
+│   ├─┬ [40m[33mthrough2@0.6.5[39m[49m 
+│   │ └── [40m[33mreadable-stream@1.0.34[39m[49m 
+│   └─┬ [40m[33mvinyl@0.4.6[39m[49m 
+│     └── [40m[33mclone@0.2.0[39m[49m 
+├─┬ [40m[33mgulp-git@1.12.0[39m[49m 
+│ ├── [40m[33many-shell-escape@0.1.1[39m[49m 
+│ ├── [40m[33mrequire-dir@0.1.0[39m[49m 
+│ └─┬ [40m[33mthrough2@0.6.5[39m[49m 
+│   ├─┬ [40m[33mreadable-stream@1.0.34[39m[49m 
+│   │ ├── [40m[33mcore-util-is@1.0.2[39m[49m 
+│   │ ├── [40m[33misarray@0.0.1[39m[49m 
+│   │ └── [40m[33mstring_decoder@0.10.31[39m[49m 
+│   └── [40m[33mxtend@4.0.1[39m[49m 
+├─┬ [40m[33mgulp-install@0.6.0[39m[49m 
+│ ├─┬ [40m[33mthrough2@2.0.3[39m[49m 
+│ │ └─┬ [40m[33mreadable-stream@2.2.2[39m[49m 
+│ │   ├── [40m[33mbuffer-shims@1.0.0[39m[49m 
+│ │   ├── [40m[33misarray@1.0.0[39m[49m 
+│ │   ├── [40m[33mprocess-nextick-args@1.0.7[39m[49m 
+│ │   └── [40m[33mutil-deprecate@1.0.2[39m[49m 
+│ └─┬ [40m[33mwhich@1.2.12[39m[49m 
+│   └── [40m[33misexe@1.1.2[39m[49m 
+├─┬ [40m[33mgulp-shell@0.5.2[39m[49m 
+│ ├── [40m[33masync@1.5.2[39m[49m 
+│ └── [40m[33mlodash@4.17.2[39m[49m 
+├── [40m[33mhttp@0.0.0[39m[49m 
+└── [40m[33mhttps@1.0.0[39m[49m 
+
+[37;40mnpm[0m [0m[30;43mWARN[0m[35m[0m Despliegue_Digital_Ocean@1.0.0 No description
+[0m[37;40mnpm[0m [0m[30;43mWARN[0m[35m[0m Despliegue_Digital_Ocean@1.0.0 No repository field.
+[0mroot@Ubuntu:/home/src/sytw# gulp clone
+[[90m03:47:11[39m] Using gulpfile [35m/home/src/sytw/gulpfile.js[39m
+[[90m03:47:11[39m] Starting '[36mclone[39m'...
+[[90m03:47:11[39m] Finished '[36mclone[39m' after [35m11 ms[39m
+[[90m03:47:15[39m]  Cloning into 'toorrl'...
+
+root@Ubuntu:/home/src/sytw# exit
+logout
